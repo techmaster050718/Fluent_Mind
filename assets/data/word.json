@@ -1,0 +1,81 @@
+[
+  {
+    "id": "serendipity",
+    "word": "Serendipity",
+    "firstLetter": "S",
+    "pronunciation": "/ˌser.ənˈdɪp.ə.t̬i/",
+    "syllables": ["ser", "en", "dip", "i", "ty"],
+    "grammar": "Noun",
+    "hindiMeaning": "भाग्ययोग; संयोगवशात् अच्छी चीज़ों का मिलना",
+    "englishMeaning": "The occurrence of events by chance in a happy or beneficial way.",
+    "easyEnglishMeaning": "Finding something good without looking for it.",
+    "examples": [
+      { "en": "A fortunate stroke of serendipity brought them together.", "hi": "एक भाग्यशाली संयोग ने उन्हें एक साथ ला दिया।" },
+      { "en": "Their meeting was pure serendipity.", "hi": "उनकी मुलाकात शुद्ध भाग्ययोग थी।" }
+    ],
+    "synonyms": ["Chance", "Luck", "Fortune", "Fate", "Providence", "Fluke"],
+    "antonyms": ["Misfortune", "Bad luck", "Design", "Plan"],
+    "collocations": ["Pure serendipity", "Sheer serendipity", "Moment of serendipity"],
+    "wordFamily": ["Serendipitous (Adj)", "Serendipitously (Adv)"],
+    "relatedWords": ["Coincidence", "Destiny", "Kismet"],
+    "usageTips": "Often used in formal or literary contexts to describe happy accidents. Uncountable noun.",
+    "difficulty": "Advanced",
+    "frequencyRank": 850,
+    "category": "General",
+    "audioPath": { "slow": "audio/serendipity_slow.mp3", "normal": "audio/serendipity.mp3" },
+    "tags": ["positive", "abstract", "literary"],
+    "notes": "Coined by Horace Walpole in 1754 based on a Persian fairy tale."
+  },
+  {
+    "id": "ephemeral",
+    "word": "Ephemeral",
+    "firstLetter": "E",
+    "pronunciation": "/ɪˈfem.ər.əl/",
+    "syllables": ["e", "phem", "er", "al"],
+    "grammar": "Adjective",
+    "hindiMeaning": "क्षणिक; अल्पकालिक; नश्वर",
+    "englishMeaning": "Lasting for a very short time.",
+    "easyEnglishMeaning": "Something that doesn't last long.",
+    "examples": [
+      { "en": "Fashions are ephemeral; they change every season.", "hi": "फैशन क्षणिक होते हैं; वे हर मौसम में बदलते हैं।" }
+    ],
+    "synonyms": ["Transient", "Fleeting", "Short-lived", "Momentary", "Brief"],
+    "antonyms": ["Permanent", "Eternal", "Everlasting", "Enduring"],
+    "collocations": ["Ephemeral beauty", "Ephemeral nature", "Ephemeral trend"],
+    "wordFamily": ["Ephemerality (Noun)", "Ephemerally (Adv)"],
+    "relatedWords": ["Temporary", "Fugitive", "Passing"],
+    "usageTips": "Often used in poetry, art, and nature contexts (e.g., ephemeral flowers, ephemeral art).",
+    "difficulty": "Advanced",
+    "frequencyRank": 1200,
+    "category": "Literature",
+    "audioPath": { "slow": "audio/ephemeral_slow.mp3", "normal": "audio/ephemeral.mp3" },
+    "tags": ["time", "abstract", "poetic"],
+    "notes": "From Greek 'ephemeros', meaning 'lasting only a day'."
+  },
+  {
+    "id": "ubiquitous",
+    "word": "Ubiquitous",
+    "firstLetter": "U",
+    "pronunciation": "/juːˈbɪk.wɪ.təs/",
+    "syllables": ["u", "biq", "ui", "tous"],
+    "grammar": "Adjective",
+    "hindiMeaning": "सर्वव्यापक; हर जगह मौजूद",
+    "englishMeaning": "Present, appearing, or found everywhere.",
+    "easyEnglishMeaning": "Something that seems to be everywhere at the same time.",
+    "examples": [
+      { "en": "Smartphones have become ubiquitous in modern society.", "hi": "स्मार्टफोन आधुनिक समाज में सर्वव्यापक हो गए हैं।" }
+    ],
+    "synonyms": ["Omnipresent", "Pervasive", "Universal", "Widespread"],
+    "antonyms": ["Rare", "Scarce", "Uncommon"],
+    "collocations": ["Ubiquitous presence", "Become ubiquitous", "Ubiquitous technology"],
+    "wordFamily": ["Ubiquity (Noun)", "Ubiquitously (Adv)"],
+    "relatedWords": ["Prevalent", "Common", "Everywhere"],
+    "usageTips": "Use to describe things that are so common they feel inescapable (e.g., ads, coffee shops, tech).",
+    "difficulty": "Advanced",
+    "frequencyRank": 950,
+    "category": "Technology",
+    "audioPath": { "slow": "audio/ubiquitous_slow.mp3", "normal": "audio/ubiquitous.mp3" },
+    "tags": ["presence", "common", "formal"],
+    "notes": "From Latin 'ubique', meaning 'everywhere'."
+  }
+]
