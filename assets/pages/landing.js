@@ -114,11 +114,11 @@ const LandingPage = {
                 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                     <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
                         <div class="gsap-stat">
-                            <div class="text-3xl sm:text-4xl font-display font-bold text-gray-900 dark:text-white mb-1">100K+</div>
+                            <div class="text-3xl sm:text-4xl font-display font-bold text-gray-900 dark:text-white mb-1">100+</div>
                             <div class="text-sm text-gray-500 dark:text-gray-400 font-medium">Words & Phrases</div>
                         </div>
                         <div class="gsap-stat">
-                            <div class="text-3xl sm:text-4xl font-display font-bold text-gray-900 dark:text-white mb-1">50K+</div>
+                            <div class="text-3xl sm:text-4xl font-display font-bold text-gray-900 dark:text-white mb-1">50+</div>
                             <div class="text-sm text-gray-500 dark:text-gray-400 font-medium">Active Learners</div>
                         </div>
                         <div class="gsap-stat">
