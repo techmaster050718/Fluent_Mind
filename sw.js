@@ -3,7 +3,7 @@
  * Cache-First strategy for assets, Network-First for navigation.
  */
 
-const CACHE_NAME = 'fluentmind-v21';
+const CACHE_NAME = 'fluentmind-v22';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',

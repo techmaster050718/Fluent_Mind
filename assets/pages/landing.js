@@ -5,7 +5,7 @@
 
 const LandingPage = {
     render: () => {
-        const demoVideoSrc = 'assets/videos/a.mp4';
+        const demoVideoSrc = 'assets/videos/aa.mp4';
         return `
         <div class="space-y-24 pb-24">
             
@@ -51,7 +51,7 @@ const LandingPage = {
                         <div class="glass-panel rounded-2xl border border-gray-200/50 dark:border-white/10 p-2 shadow-2xl shadow-accent-blue/5 max-w-5xl mx-auto transform hover:scale-[1.01] transition-transform duration-500">
                             <div class="rounded-xl bg-gray-100 dark:bg-dark-cardSec aspect-video flex items-center justify-center relative overflow-hidden group">
                                 <video autoplay loop muted playsinline class="w-full h-full object-cover">
-                                    <source src="assets/videos/a.mp4" type="video/mp4">
+                                    <source src="assets/videos/aa.mp4" type="video/mp4">
                                     Your browser does not support the video tag.
                                 </video>
                             </div>
@@ -310,7 +310,7 @@ const LandingPage = {
                 demoPlaceholder.innerHTML = `
                     <div class="w-16 h-16 rounded-full bg-white dark:bg-dark-card shadow-lg flex items-center justify-center mb-4"><i data-lucide="triangle-alert" class="w-7 h-7 text-accent-orange"></i></div>
                     <p class="font-semibold text-gray-900 dark:text-white">This video format cannot be played here.</p>
-                    <p class="text-sm text-gray-500 dark:text-gray-400 mt-2 max-w-md">Export <code class="px-1.5 py-0.5 rounded bg-white/60 dark:bg-white/10">a.mp4</code> as H.264 video with AAC audio, then replace the file in <code class="px-1.5 py-0.5 rounded bg-white/60 dark:bg-white/10">assets/videos/</code>.</p>`;
+                    <p class="text-sm text-gray-500 dark:text-gray-400 mt-2 max-w-md">Export <code class="px-1.5 py-0.5 rounded bg-white/60 dark:bg-white/10">aa.mp4</code> as H.264 video with AAC audio, then replace the file in <code class="px-1.5 py-0.5 rounded bg-white/60 dark:bg-white/10">assets/videos/</code>.</p>`;
                 if (typeof lucide !== 'undefined') lucide.createIcons();
             });
             demoPlayer.load();
